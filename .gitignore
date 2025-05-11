@@ -1,0 +1,55 @@
+```gitignore
+# Qt artifacts
+build-*/
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.obj
+*.o
+*.pdb
+*.idb
+*.exp
+*.ilk
+
+# Debug files
+*.debug
+*.pdb
+
+# Qt generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.moc
+*.qrc.depends
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Binaries
+release/
+debug/
+
+# Localization files
+*.qm
+
+# macOS specific
+*.dSYM
