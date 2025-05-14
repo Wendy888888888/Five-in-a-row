@@ -33,7 +33,3 @@
 - C++11 及以上
 - CMake 3.5+（可选）
 
-### 编译步骤
-1. 克隆仓库
-   ```bash
-   git clone https://github.com/yourname/five-chess.git
